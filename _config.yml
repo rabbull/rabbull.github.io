@@ -56,8 +56,8 @@ plugins:
 
 
 header_pages:
-  - index.md
-  - about.md
+  - index.markdown
+  - about.markdown
 
 style: dark
 listen_for_clients_preferred_style: true
