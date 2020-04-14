@@ -60,6 +60,4 @@ header_pages:
   - about.markdown
 
 style: dark
-listen_for_clients_preferred_style: true
-footer: 'follow us on <a href="https://github.com/rabbull">rabbull</a>'
 
