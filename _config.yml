@@ -54,5 +54,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-remote-theme: b2a3e8/jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
 
