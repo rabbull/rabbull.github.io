@@ -59,3 +59,5 @@ header_pages:
   - index.markdown
   - about.markdown
 
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
