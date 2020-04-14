@@ -30,7 +30,7 @@ twitter_username: N/A
 github_username:  rabbull
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
@@ -53,3 +53,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+remote-theme: b2a3e8/jekyll-theme-console
+
