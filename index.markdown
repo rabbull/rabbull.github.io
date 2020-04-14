@@ -1,7 +1,8 @@
 ---
 title: /
-layout: home
 permalink: /
+layout: home
 ---
 
 # Welcome
+
