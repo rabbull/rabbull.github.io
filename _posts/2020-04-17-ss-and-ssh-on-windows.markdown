@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "在 Windows 上丝滑使用 shadowsocks 并代理 ssh 登录远程服务器"
-date:   2020-04-14 15:23:14 +0800
+date:   2020-04-17 15:23:14 +0800
 categories: proxy shadowsocks ssh windows
 ---
 
